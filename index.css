@@ -17,7 +17,7 @@ top: -10px;
 right: -10px;
 bottom: -10px;
 left: -10px;
-background: url(http://p2.music.126.net/ZrdgYxTa4MHPhUoRXdM4Ow==/2426622162526067.jpg);
+background: url(https://p2.music.126.net/ZrdgYxTa4MHPhUoRXdM4Ow==/2426622162526067.jpg);
 background-size: cover;
 filter: blur(4px);
 }
@@ -45,7 +45,7 @@ main .aside {
 main .aside > figure {
     width: 46vh;
     height: 46vh;
-    background-image: url(http://p2.music.126.net/ZrdgYxTa4MHPhUoRXdM4Ow==/2426622162526067.jpg);
+    background-image: url(https://p2.music.126.net/ZrdgYxTa4MHPhUoRXdM4Ow==/2426622162526067.jpg);
     background-size: cover;
     position-position: center center;
 }
